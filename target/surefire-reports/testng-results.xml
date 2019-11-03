@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19916" started-at="2019-01-09T06:27:42Z" finished-at="2019-01-09T06:28:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19916" started-at="2019-01-09T06:27:42Z" finished-at="2019-01-09T06:28:02Z">
+      <class name="testProject.LaunchTest">
+        <test-method status="PASS" signature="LaunchTest()[pri:0, instance:testProject.LaunchTest@221af3c0]" name="LaunchTest" is-config="true" duration-ms="3377" started-at="2019-01-09T06:27:42Z" finished-at="2019-01-09T06:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchTest -->
+        <test-method status="PASS" signature="HomeTest()[pri:0, instance:testProject.LaunchTest@221af3c0]" name="HomeTest" duration-ms="16295" started-at="2019-01-09T06:27:46Z" finished-at="2019-01-09T06:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeTest -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:testProject.LaunchTest@221af3c0]" name="Logout" is-config="true" duration-ms="225" started-at="2019-01-09T06:28:02Z" finished-at="2019-01-09T06:28:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- testProject.LaunchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
